@@ -1,7 +1,6 @@
 # Hi there! Welcome to my page!
 ## ME
-* 菜
-* 正在学习网络安全
+### 正在学习网络安全
 ```c
 #include <me.h>
 int me()
