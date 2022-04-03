@@ -1,5 +1,6 @@
 # Hi there! Welcome to my page! 欢迎来到我的主页
 ## 角色详情
+:star:
 名称:Nero-UMU
 职阶:toucher(摸鱼王)
 HP:2020
