@@ -2,7 +2,7 @@
 ## 角色详情:mag:     
 稀有度: :star::star::star::star::star:     
 名称: Nero-UMU     
-职阶: toucher(摸鱼王)     
+职阶: Toucher(摸鱼王)     
 HP: 2020     
 ATK: 1215     
 属性: 混沌·善     
