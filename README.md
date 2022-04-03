@@ -25,5 +25,5 @@ ATK: 1215
 ## 职阶技能:hammer:
 |技能|评级|描述|
 |:---:|:---:|:---:|
-|摸鱼|C+|自身经济少量提升|
-|划水|B|负面效果抵抗性增加|
+|![Attack](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/%E5%8A%A0%E6%94%BB.png)<br>摸鱼|C+|自身网速少量提升|
+|![NoWay](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/%E5%BC%B1%E5%8C%96%E6%97%A0%E6%95%88.png)<br>划水|B|自身精神力量提升|
