@@ -19,7 +19,7 @@ ATK: 1215
 |技能|评级|详情|描述|CD|
 |:---:|:---:|:---:|:---:|:---:|
 |![NP](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/%E5%85%85%E8%83%BD.png)<br>CV编程手|EX|因熟练使用 Ctrl+C与 Ctrl+V,最终演变为此技能,减少重复造轮子嘛!|提高自身代码复制粘贴能力Lv.10 & 自身网速大幅度提升 & 降低其他单位网速Lv.10|10s|
-|![Cure](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/%E5%9B%9E%E8%A1%80.png)<br>网线操纵者|B|什么?网线的运用已经如此熟练了?要小心自己的网线不被拔了!|提高自身欧气Lv.10 & 自身各属性提升Lv.10 & 赋予其他单位断网的负面效果|1h|
+|![Cure](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/%E5%9B%9E%E8%A1%80.png)<br>网线操纵者|B|什么?网络的运用已经如此熟练了?要小心自己的网线不被拔了!|提高自身欧气Lv.10 & 自身各属性提升Lv.10 & 赋予其他单位断网的负面效果|1h|
 |![NoDie](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/%E6%AF%85%E5%8A%9B.png)<br>纵使三度迎来落日|A|嗯?怎么就晚上了?还是已经早上了?昼夜颠倒,时间混乱,我是谁?我从哪来?我要去哪?|消除自身一切负面效果 & 提高自身经济Lv.10|3d|
 
 ## 职阶技能:hammer:
