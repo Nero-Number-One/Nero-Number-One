@@ -2,10 +2,11 @@
 ```c
 #include <me.h>
 int me(){
-	while(alive){
-		eating();
-		sleeping();
-		coding();
-	}
+    while (alive)
+    {
+        eating();
+        sleeping();
+        coding();
+    } 
 }
 ```
