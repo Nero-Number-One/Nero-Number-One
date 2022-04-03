@@ -10,9 +10,9 @@ ATK: 1215
 地域: 地球     
 
 ## 宝具
-|宝具|详情|描述|
+|宝具|描述|详情|
 |:---:|:---:|:---:|
-|![Arts](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/Arts.png)<br>宝具|||
+|![Arts](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/Arts.png)<br>真·顺着网线来打你|互联网不是法外之地,居然真的可以顺着网线来打人?看我通过网线到你身边给你一巴掌!|赋予自身网速极大提升Lv.5 & 赋予自身网络自由的状态(可在网络间游走) & 自身经济少量提升|
 
 
 ## 持有技能:zap:     
