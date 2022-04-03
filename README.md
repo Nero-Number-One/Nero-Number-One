@@ -12,7 +12,8 @@ ATK: 1215
 ## 宝具
 |宝具|详情|描述|
 |:---:|:---:|:---:|
-|![Arts](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/Arts.png)|aaa|bbb|
+|![Arts](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/Arts.png)     B|aaa|bbb|
+
 ## 持有技能:zap:     
 |技能|评级|详情|描述|CD|
 |:---:|:---:|:---:|:---:|:---:|
