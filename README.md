@@ -21,4 +21,3 @@ ATK: 1215
 |:---:|:---:|:---:|
 |摸鱼|C+|自身经济少量提升|
 |划水|B|负面效果抵抗性增加|
-![pic](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/Arts.png)
