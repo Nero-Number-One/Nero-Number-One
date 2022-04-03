@@ -10,7 +10,8 @@ ATK: 1215
 地域: 地球     
 
 ## 宝具
-![Arts](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/Arts.png)
+![Arts](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/Arts.png)宝具
+阿巴     
 
 ## 持有技能:zap:     
 |技能|评级|详情|描述|CD|
