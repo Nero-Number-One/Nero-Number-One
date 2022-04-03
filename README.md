@@ -24,6 +24,8 @@ ATK: 1215
      
 CV编程手     
 |评级|详情|描述|CD|
+|:---:|:---:|:---:|:---:|:---:|
+|![Attack](https://raw.githubusercontent.com/Nero-UMU/Nero-UMU/main/img/%E5%8A%A0%E6%94%BB.png)|EX|因熟练使用 Ctrl+C与 Ctrl+V,最终演变为此技能,减少重复造轮子嘛!|提高自身代码复制粘贴能力Lv.10 & 自身网速大幅度提升 & 降低其他单位网速Lv.10|10s|
 
 ## 职阶技能:hammer:
 |技能|评级|描述|
